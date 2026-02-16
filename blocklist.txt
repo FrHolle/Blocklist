@@ -1,0 +1,4 @@
+## Sinhkole
+# Brave
+127.0.0.1   variations.brave.com
+127.0.0.1   star-randsrv.bsg.brave.com
